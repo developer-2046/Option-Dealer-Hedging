@@ -5,7 +5,7 @@
 
 # Shared Funding Constraints and Variational Equilibrium in Option Dealer Hedging
 
-**Authors:** Yuvraj Malik and [Coauthor Name(s)]  
+**Authors:** Yuvraj Malik and Nicholas Bo You Chin  
 **First Author:** Yuvraj Malik  
 **Status:** Preprint; under review at *Mathematics and Financial Economics*  
 **Year:** 2026
