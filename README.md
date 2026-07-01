@@ -3,7 +3,6 @@
 
 ## 2. Option-Dealer Hedging Paper
 
-```markdown
 # Shared Funding Constraints and Variational Equilibrium in Option Dealer Hedging
 
 **Authors:** Yuvraj Malik and [Coauthor Name(s)]  
